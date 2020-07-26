@@ -1,0 +1,5 @@
+e:\juanf\documents\visual studio 2010\Projects\NC24_Service\NC24_Service\bin\Debug\NC24_Service.exe.config
+e:\juanf\documents\visual studio 2010\Projects\NC24_Service\NC24_Service\bin\Debug\NC24_Service.exe
+e:\juanf\documents\visual studio 2010\Projects\NC24_Service\NC24_Service\bin\Debug\NC24_Service.pdb
+e:\juanf\documents\visual studio 2010\Projects\NC24_Service\NC24_Service\obj\x86\Debug\NC24_Service.exe
+e:\juanf\documents\visual studio 2010\Projects\NC24_Service\NC24_Service\obj\x86\Debug\NC24_Service.pdb
